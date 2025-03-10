@@ -160,3 +160,12 @@ public class MainActivity extends AppCompatActivity
         tools:layout_editor_absoluteY="493dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+_____________________________
+
+import android.os.Bundle;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
+import androidx.appcompat.app.AppCompatActivity;
